@@ -6,7 +6,7 @@ import ServicesSection from "@/components/ServicesSection";
 import PaintSection from "@/components/PaintSection";
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
-import FloatingButton from "@/components/FloatingBotton";
+import FloatingButton from "@/components/FloatingButton";
 import Footer from "@/components/Footer";
 
 export default function UnlimitedBuildZoneLanding() {
