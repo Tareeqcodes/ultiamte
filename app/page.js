@@ -7,6 +7,7 @@ import PaintSection from "@/components/PaintSection";
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
 import FloatingButton from "@/components/FloatingButton";
+import SteelRodSection from "@/components/SteelRodSection";
 import Footer from "@/components/Footer";
 
 export default function UnlimitedBuildZoneLanding() {
@@ -25,6 +26,7 @@ export default function UnlimitedBuildZoneLanding() {
       <Navbar scrolled={scrolled} />
       <Hero />
       <ServicesSection />
+          <SteelRodSection />
       <PaintSection />
       <AboutSection />
       <ContactSection />

@@ -41,10 +41,10 @@ export default function PaintSection() {
   const brands = [
     "Dulux",
     "Berger",
-    "Nippon",
-    "Asian",
-    "Kansai",
-    "AkzoNobel",
+    "Canopy",
+    "Swan",
+    "Liquid",
+    "Noble",
     
   ];
 
@@ -113,7 +113,7 @@ export default function PaintSection() {
                     key={index}
                     className="bg-white p-3 rounded-lg text-center"
                   >
-                    <span className="font-medium text-gray-900">{brand}</span>
+                    <span className="font-semibold text-gray-900">{brand}</span>
                   </div>
                 ))}
               </div>

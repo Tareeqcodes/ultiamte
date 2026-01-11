@@ -3,7 +3,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 export default function Navbar({ scrolled }) {
-  const navItems = ["Services", "Paint", "About", "Contact"];
+  const navItems = ["Services", "Paint", "Steel Rods", "About", "Contact"];
   
   return (
     <motion.header

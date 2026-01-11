@@ -13,7 +13,7 @@ export default function ServicesSection() {
       description:
         "Premium cement, structural steel, roofing materials, and all essential construction inputs for durable and lasting structures.",
       imageUrl:
-        "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop",
+        "/22.jpg",
       items: [
         "Cement & Concrete",
         "Structural Steel",
@@ -28,7 +28,7 @@ export default function ServicesSection() {
       description:
         "Interior, exterior, and industrial paints & coatings from leading global brands for every surface and application.",
       imageUrl:
-        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=2070&auto=format&fit=crop",
+        "/2.jpg",
       items: [
         "Interior & Exterior Paints",
         "Industrial Coatings",
@@ -43,7 +43,7 @@ export default function ServicesSection() {
       description:
         "Sourcing and importing high‑grade materials from international manufacturers and suppliers worldwide.",
       imageUrl:
-        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+        "/11.jpg",
       items: [
         "International Sourcing",
         "Quality Inspection",
@@ -58,7 +58,7 @@ export default function ServicesSection() {
       description:
         "Exporting premium locally sourced building materials to regional and international markets with efficiency.",
       imageUrl:
-        "https://images.unsplash.com/photo-1601042879364-f3947d1f9fc9?q=80&w=2070&auto=format&fit=crop",
+        "/33.jpg",
       items: [
         "Market Analysis",
         "Export Documentation",
