@@ -43,8 +43,11 @@ export default function PaintSection() {
     "Berger",
     "Canopy",
     "Swan",
-    "Liquid",
-    "Noble",
+    "Popular",
+    "Novel",
+    "Princess",
+    "De Hard Lux"
+
     
   ];
 
